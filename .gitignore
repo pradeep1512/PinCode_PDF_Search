@@ -1,0 +1,109 @@
+# ========================
+# .NET / C# Backend
+# ========================
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.rsuser
+*.DotSettings.user
+*.ncrunchproject
+*.ncrunch*
+*.pidb
+*.booproj
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nupkg
+*.snupkg
+**/[Pp]ackages/
+!**/[Pp]ackages/build/
+*.log
+*.cache
+TestResult.xml
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+*.VisualStudio.suo
+.builds/
+.ncrunchsolution
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.manifest
+*.res
+*.publish.xml
+*.azurePubxml
+*.pubxml
+*.pubxml.user
+*[Pp]ublish.xml
+appsettings.Development.json
+
+# ========================
+# Angular / Node.js Frontend
+# ========================
+node_modules/
+dist/
+.angular/
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.node_repl_history
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+
+# ========================
+# IDE & OS
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Runtime uploaded files (not source code)
+# ========================
+backend/PinCodePdfSearch.Api/UploadedPdfs/
+
+# ========================
+# Sample/Large PDF data (optional - remove if you want to include)
+# ========================
+# sample-data/*.pdf
